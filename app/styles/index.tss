@@ -1,0 +1,230 @@
+".container": {
+	height: Ti.UI.FILL,
+	layout: 'vertical',
+	width: Ti.UI.FILL,
+	backgroundColor:"#FFF",
+},
+
+'#p1[platform=ios]': {
+	left: "30%",
+	top: "5%",
+	color: '#25425b',
+  	font: { fontSize:'18dp' },
+ 	height: Titanium.UI.SIZE,
+ 	textAlign: Ti.UI.TEXT_ALIGNMENT_CENTER,
+ 	width: "40%",
+ 	backgroundColor : "#dedede",
+ 	layout: "vertical"
+},
+
+'#p1[platform=android]': {
+	left: "30%",
+	top: "5%",
+	color: '#25425b',
+	title: "Problem 1",
+  	font: { fontSize:'18dp' },
+ 	height: Titanium.UI.SIZE,
+ 	textAlign: Ti.UI.TEXT_ALIGNMENT_CENTER,
+ 	width: "40%",
+ 	backgroundColor : "#dedede",
+ 	layout: "vertical"
+},
+
+'#Lbl1[platform=ios]': {
+	color: '#25425b',
+  	font: { fontSize:'18dp' },
+ 	height: Titanium.UI.SIZE,
+ 	width: Titanium.UI.SIZE
+},
+
+'#p2[platform=ios]': {
+	left: "30%",
+	top: "5%",
+	color: '#25425b',
+  	font: { fontSize:'18dp' },
+ 	height: Titanium.UI.SIZE,
+ 	textAlign: Ti.UI.TEXT_ALIGNMENT_CENTER,
+ 	width: "40%",
+ 	backgroundColor : "#dedede",
+ 	layout: "vertical"
+},
+
+'#p2[platform=android]': {
+	left: "30%",
+	top: "5%",
+	color: '#25425b',
+	title: "Problem 2",
+  	font: { fontSize:'18dp' },
+ 	height: Titanium.UI.SIZE,
+ 	textAlign: Ti.UI.TEXT_ALIGNMENT_CENTER,
+ 	width: "40%",
+ 	backgroundColor : "#dedede",
+ 	layout: "vertical"
+},
+
+'#Lbl2[platform=ios]': {
+	color: '#25425b',
+  	font: { fontSize:'18dp' },
+ 	height: Titanium.UI.SIZE,
+ 	width: Titanium.UI.SIZE
+},
+
+'#p3[platform=ios]': {
+	left: "30%",
+	top: "5%",
+	color: '#25425b',
+  	font: { fontSize:'18dp' },
+ 	height: Titanium.UI.SIZE,
+ 	textAlign: Ti.UI.TEXT_ALIGNMENT_CENTER,
+ 	width: "40%",
+ 	backgroundColor : "#dedede",
+ 	layout: "vertical"
+},
+
+'#p3[platform=android]': {
+	left: "30%",
+	top: "5%",
+	color: '#25425b',
+	title: "Problem 3",
+  	font: { fontSize:'18dp' },
+ 	height: Titanium.UI.SIZE,
+ 	textAlign: Ti.UI.TEXT_ALIGNMENT_CENTER,
+ 	width: "40%",
+ 	backgroundColor : "#dedede",
+ 	layout: "vertical"
+},
+
+'#Lbl3[platform=ios]': {
+	color: '#25425b',
+  	font: { fontSize:'18dp' },
+ 	height: Titanium.UI.SIZE,
+ 	width: Titanium.UI.SIZE
+},
+
+'#p4[platform=ios]': {
+	left: "30%",
+	top: "5%",
+	color: '#25425b',
+  	font: { fontSize:'18dp' },
+ 	height: Titanium.UI.SIZE,
+ 	textAlign: Ti.UI.TEXT_ALIGNMENT_CENTER,
+ 	width: "40%",
+ 	backgroundColor : "#dedede",
+ 	layout: "vertical"
+},
+
+'#p4[platform=android]': {
+	left: "30%",
+	top: "5%",
+	color: '#25425b',
+	title: "Problem 4",
+  	font: { fontSize:'18dp' },
+ 	height: Titanium.UI.SIZE,
+ 	textAlign: Ti.UI.TEXT_ALIGNMENT_CENTER,
+ 	width: "40%",
+ 	backgroundColor : "#dedede",
+ 	layout: "vertical"
+},
+
+'#Lbl4[platform=ios]': {
+	color: '#25425b',
+  	font: { fontSize:'18dp' },
+ 	height: Titanium.UI.SIZE,
+ 	width: Titanium.UI.SIZE
+},
+
+'#p5[platform=ios]': {
+	left: "30%",
+	top: "5%",
+	color: '#25425b',
+  	font: { fontSize:'18dp' },
+ 	height: Titanium.UI.SIZE,
+ 	textAlign: Ti.UI.TEXT_ALIGNMENT_CENTER,
+ 	width: "40%",
+ 	backgroundColor : "#dedede",
+ 	layout: "vertical"
+},
+
+'#p5[platform=android]': {
+	left: "30%",
+	top: "5%",
+	color: '#25425b',
+	title: "Problem 5",
+  	font: { fontSize:'18dp' },
+ 	height: Titanium.UI.SIZE,
+ 	textAlign: Ti.UI.TEXT_ALIGNMENT_CENTER,
+ 	width: "40%",
+ 	backgroundColor : "#dedede",
+ 	layout: "vertical"
+},
+
+'#Lbl5[platform=ios]': {
+	color: '#25425b',
+  	font: { fontSize:'18dp' },
+ 	height: Titanium.UI.SIZE,
+ 	width: Titanium.UI.SIZE
+},
+
+'#p6[platform=ios]': {
+	left: "30%",
+	top: "5%",
+	color: '#25425b',
+  	font: { fontSize:'18dp' },
+ 	height: Titanium.UI.SIZE,
+ 	textAlign: Ti.UI.TEXT_ALIGNMENT_CENTER,
+ 	width: "40%",
+ 	backgroundColor : "#dedede",
+ 	layout: "vertical"
+},
+
+'#p6[platform=android]': {
+	left: "30%",
+	top: "5%",
+	color: '#25425b',
+	title: "Problem 6",
+  	font: { fontSize:'18dp' },
+ 	height: Titanium.UI.SIZE,
+ 	textAlign: Ti.UI.TEXT_ALIGNMENT_CENTER,
+ 	width: "40%",
+ 	backgroundColor : "#dedede",
+ 	layout: "vertical"
+},
+
+'#Lbl6[platform=ios]': {
+	color: '#25425b',
+  	font: { fontSize:'18dp' },
+ 	height: Titanium.UI.SIZE,
+ 	width: Titanium.UI.SIZE
+},
+
+'#p7[platform=ios]': {
+	left: "30%",
+	top: "5%",
+	color: '#25425b',
+  	font: { fontSize:'18dp' },
+ 	height: Titanium.UI.SIZE,
+ 	textAlign: Ti.UI.TEXT_ALIGNMENT_CENTER,
+ 	width: "40%",
+ 	backgroundColor : "#dedede",
+ 	layout: "vertical"
+},
+
+'#p7[platform=android]': {
+	left: "30%",
+	top: "5%",
+	color: '#25425b',
+	title: "Problem 7",
+  	font: { fontSize:'18dp' },
+ 	height: Titanium.UI.SIZE,
+ 	textAlign: Ti.UI.TEXT_ALIGNMENT_CENTER,
+ 	width: "40%",
+ 	backgroundColor : "#dedede",
+ 	layout: "vertical"
+},
+
+'#Lbl7[platform=ios]': {
+	color: '#25425b',
+  	font: { fontSize:'18dp' },
+ 	height: Titanium.UI.SIZE,
+ 	width: Titanium.UI.SIZE
+},

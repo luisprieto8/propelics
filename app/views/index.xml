@@ -1,0 +1,11 @@
+<Alloy>
+	<Window class="container" id="index">
+		<Button id="p1" onClick="problem1"><Label id="Lbl1">Problem 1</Label></Button>
+		<Button id="p2" onClick="problem2"><Label id="Lbl2">Problem 2</Label></Button>
+		<Button id="p3" onClick="problem3"><Label id="Lbl3">Problem 3</Label></Button>
+		<Button id="p4" onClick="problem4"><Label id="Lbl4">Problem 4</Label></Button>
+		<Button id="p5" onClick="problem5"><Label id="Lbl5">Problem 5</Label></Button>
+		<Button id="p6" onClick="problem6"><Label id="Lbl6">Problem 6</Label></Button>
+		<Button id="p7" onClick="problem7"><Label id="Lbl7">Problem 7</Label></Button>
+	</Window>
+</Alloy>
